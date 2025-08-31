@@ -1,14 +1,14 @@
 MMS:
-  email: 233
-  password: 233
-  savefolder_path: 233
+  email: blazornite.01@gmail.com
+  password: yjy100503
+  savefolder_path: files
 
 RSS:
   url: 233
   key: 233333
 
 Email:
-  enable_email_notify: 1
+  enable_email_notify: 0
   sender: 233
   receivers: 233
   smtp_host: 233
@@ -27,3 +27,4 @@ onedrive:
   od_client_secret: 114514
   od_redirect_uri: 114514
   od_upload_dir: abcd # relative to root， do not use '/' at the beginning
+
